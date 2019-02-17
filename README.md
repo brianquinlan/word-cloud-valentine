@@ -2,10 +2,9 @@
 
 As a Valentine's Day gift to my amazing wife Sophie, I wanted to create a
 [word cloud](https://www.wordclouds.com/) using the messages that we've
-exchanged since we met. We have
-been using Google Hangouts for most of our messages so just using the words
-in those messages (and ignoring text messages, Facebook messages, etc.)
-seemed like it would be a good enough.
+exchanged since we met. We have been using Google Hangouts for most of our
+messages so just using the words in those messages (and ignoring text messages,
+Facebook messages, etc.) seemed like it would be a good enough.
 
 The final command that I used generate the weighted list of words for the
 word cloud was:
@@ -26,6 +25,19 @@ Resulting in output like:
 16	kids
 16	day
 ```
+
+I then used [this online word cloud generator](https://www.wordclouds.com/)
+to create this:
+
+![Heart Cloud](images/heartcloud.jpg)
+
+Then I had it [framed](https://www.americanframe.com) and the final result
+looked like:
+
+![Heart Cloud](images/framedheartcloud.jpg)
+_(wife not included)_
+
+# How To
 
 ## Extracting the data
 
