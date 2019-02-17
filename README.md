@@ -35,6 +35,7 @@ Then I had it [framed](https://www.americanframe.com) and the final result
 looked like:
 
 ![Heart Cloud](images/framedheartcloud.jpg)
+
 _(wife not included)_
 
 # How To
