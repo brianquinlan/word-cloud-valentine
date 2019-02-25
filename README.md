@@ -38,6 +38,8 @@ looked like:
 
 _(wife not included)_
 
+I gave a presentation on this at [BayPIGgies](http://baypiggies.net/) with
+[slides](https://docs.google.com/presentation/d/1-s-0AfgNjmfUI_EOBHvGSduv_YUrw1GhnLCg1tN5LMs/edit?usp=sharing).
 # How To
 
 ## Extracting the data
