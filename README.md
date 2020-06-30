@@ -1,6 +1,6 @@
 # Be my Valentine (2019)
 
-As a Valentine's Day gift to my amazing wife Sophie, I wanted to create a
+As a Valentine's Day gift to my amazing wife, I wanted to create a
 [word cloud](https://www.wordclouds.com/) using the messages that we've
 exchanged since we met. We have been using Google Hangouts for most of our
 messages so just using the words in those messages (and ignoring text messages,
@@ -31,10 +31,7 @@ to create this:
 
 ![Heart Cloud](images/heartcloud.jpg)
 
-Then I had it [framed](https://www.americanframe.com) and the final result
-looked like:
-
-![Heart Cloud](images/framedheartcloud.jpg)
+Then I had it [framed](https://www.americanframe.com).
 
 _(wife not included)_
 
